@@ -1,0 +1,5 @@
+Dictionry Data Structure: Something like json object.
+Dictionry Desc: A hashtable is a specific way to implement a dictionary. ... A dictionary i
+s a data structure that maps keys to values.
+
+

@@ -1,0 +1,4 @@
+Binary Search: Binary Search is searching technique which works on Divide and Conquer approach. It used to search any element in a sorted array. As compared to linear, binary search is much faster with Time Complexity of O(logN) whereas linear search algorithm works in O(N) time complexity.
+
+Linear Search: The JavaScript language has several methods, like find , to locate items in an array. However, these methods use linear search. A linear search algorithm starts at the beginning of a list and compares each element with the search value until it is found.
+

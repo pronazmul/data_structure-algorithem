@@ -1,0 +1,25 @@
+FIFO: First Inn First Out...
+Queue Data Structure Follow FIFO Algorihem...
+example: 
+
+        class Queue{
+            constructor(){
+                this.queue=[]
+            }
+            enqueue(item){
+                this.queue.push(item)
+            }
+            dequeue(){
+                if(this.queue.length){
+                    this.queue.shift()
+                }
+            }
+
+        }
+            const guest = new Queue
+            guest.add("ProNazmul")
+            guest.add("Sania Akter")
+            guest.add("Rashsdul Alam")
+            console.log(guest.queue)
+            guest.remove()
+            console.log(guest.queue)
